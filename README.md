@@ -10,7 +10,7 @@ __________________________________________________________________
 | • Solidify | For adding thickness to an object mesh to use it as a solid 3D model. |
 | • Bake | For calculating associated physics in the Blender model. |
 | • Screw Modifier | For turning a selected object into a coil shape or similar. |
-| • Physics >> Collision >> | Field Absorption, Damping, and | Friction set to max to allow particles to stick to selected object. |
+| • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
 | • The use of wireframe mode to select all vertices, edges, or vertices. | So you won't accidentally miss the selection of any vertices, edges, or faces. |
 | • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 _________________________________________________________________________
