@@ -23,7 +23,7 @@ _________________________________________________________________________
 | • Modifiers >> Smooth by Angle | For smoothing adjacent edges of selected 3D objects, be sure to select Shade Smooth under the Object tab along with the usage of this tool. |
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
 ___________________________________________________________________________
-| In Edit Mode given that you select desired shape): | Description |
+| In Edit Mode (Given that you select desired shape): | Description |
 | - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
