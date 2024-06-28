@@ -1,8 +1,8 @@
 # Blender-Common-Tools
 A repository of Onri's most used tools or sub-tools for rendering in Blender.
 __________________________________________________________________
-## [Download Blender here](https://www.blender.org/download)
-### [Onri's Free Blend Files (Examples)](https://github.com/OJB-Quantum/Free-Blender-Models)
+## [Download Blender Here](https://www.blender.org/download)
+### [Onri's Free Blend Files Here (Examples)](https://github.com/OJB-Quantum/Free-Blender-Models)
 
 | General | Description |
 | - | - |
