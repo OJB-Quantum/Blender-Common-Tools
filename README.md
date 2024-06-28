@@ -1,8 +1,8 @@
 # Blender-Common-Tools
 A repository of Onri's most used tools or sub tools for rendering. 
 __________________________________________________________________
-| General |
-| - |
+| General | Description |
+| - | - |
 | • Fast GI Approximation | For faster rendering of lighting scenes besides the use of GPU-accelerated Optix denoising. |
 | • Deleting interior | Faces | For faster rendering by allowing the system to spend less time on rendering | Faces that cannot be seen in the render view mode. |
 | • Solidify | For adding thickness to an object mesh to use it as a solid 3D model. |
@@ -12,8 +12,8 @@ __________________________________________________________________
 | • The use of wireframe mode to select all edges or vertices. |
 | • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 _________________________________________________________________________
-| In Object Mode: |
-| - |
+| In Object Mode: | Description |
+| - | - |
 | • Add Mesh | For adding 2D and 3D shapes. |
 | • Shade Smooth | For smoothing rough edges of added shapes. |
 | • Modifiers >> Boolean | For merging or cutting added shapes. |
@@ -21,8 +21,8 @@ _________________________________________________________________________
 | • Modifiers >> Smooth by Angle | For smoothing adjacent edges of selected 3D objects, be sure to select Shade Smooth under the Object tab along with the usage of this tool. |
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
 ___________________________________________________________________________
-| In Edit Mode given that you select desired shape): |
-| - |
+| In Edit Mode given that you select desired shape): | Description |
+| - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections | For modification. |
@@ -43,9 +43,8 @@ ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
 | [6 Minutes of Boolean Basics, Blender Secrets](https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
-| [](https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
-| [](https://blender.stackexchange.com/questions/268297/how-do-i-smooth-these-sharp-edges) |
-| [](https://youtu.be/N9p00A7P5h8?si=eUaph8IPTgahYMbL) |
-| [](https://youtu.be/mkfv5ecpvvs?si=wZVfQo-JLvOyUxJJ) |
-| [](https://youtu.be/WT29Hyv2XX8?si=lgAcGRYFrLrynpyw) |
-| [](https://youtu.be/adahnQCqmw0?si=hdK1bFHX82S0qBEB) |
+| [Loop Tools Tips, Blender Secrets](https://youtube.com/playlist?list=PLrB1kuJIjcg4UByYChm0sojwfy87RincB&si=cT6be2h_AgWlrQ_o) |
+| [Shade Auto Smooth, Ryan King Art](https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
+| [Blender Glare Node for Cycles Glow / Bloom, Brandon 3D](https://youtu.be/N9p00A7P5h8?si=eUaph8IPTgahYMbL) |
+| [Fill Holes in a Mesh, Buvesa Game Development](https://youtu.be/mkfv5ecpvvs?si=wZVfQo-JLvOyUxJJ) |
+| [Create Projectors Fast, CGMatter](https://youtu.be/adahnQCqmw0?si=hdK1bFHX82S0qBEB) |
