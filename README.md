@@ -42,7 +42,7 @@ _____________________________________________________
 ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
-| (https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
+| (https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI)[6 Minutes of Boolean Basics, Blender Secrets] |
 | (https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
 | (https://blender.stackexchange.com/questions/268297/how-do-i-smooth-these-sharp-edges) |
 | (https://youtu.be/N9p00A7P5h8?si=eUaph8IPTgahYMbL) |
