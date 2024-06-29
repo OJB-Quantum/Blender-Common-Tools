@@ -7,7 +7,7 @@ __________________________________________________________________
 | General | Description |
 | - | - |
 | • Fast GI Approximation | For faster rendering of lighting scenes besides the use of GPU-accelerated Optix denoising. |
-| • Deleting interior | Faces | For faster rendering by allowing the system to spend less time on rendering | Faces that cannot be seen in the render view mode. |
+| • Deleting interior faces | For faster rendering by allowing the system to spend less time on rendering faces that cannot be seen in the render view mode. |
 | • Solidify | For adding thickness to an object mesh to use it as a solid 3D model. |
 | • Bake | For calculating associated physics in the Blender model. |
 | • Screw Modifier | For turning a selected object into a coil shape or similar. |
