@@ -51,3 +51,4 @@ ______________________________________________________
 | [Blender Glare Node for Cycles Glow / Bloom, Brandon 3D](https://youtu.be/N9p00A7P5h8?si=eUaph8IPTgahYMbL) |
 | [Fill Holes in a Mesh, Buvesa Game Development](https://youtu.be/mkfv5ecpvvs?si=wZVfQo-JLvOyUxJJ) |
 | [Create Projectors Fast, CGMatter](https://youtu.be/adahnQCqmw0?si=hdK1bFHX82S0qBEB) |
+| [How to make Blender Eevee Look Realistic - Indirect Lighting, Void Visuals](https://youtu.be/6R4pnPwCA3U?si=tkyVCdaELI5eU3AD) |
