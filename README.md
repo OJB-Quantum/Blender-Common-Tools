@@ -28,8 +28,8 @@ ___________________________________________________________________________
 | - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
-| • Loop Cut | For sectioning added shapes into smaller sections | For modification. |
-| • Shrink/Fatten | For extruding individual or selected vertices, edges, or | Faces. |
+| • Loop Cut | For sectioning added shapes into smaller sections for modification. |
+| • Shrink/Fatten | For extruding individual or selected vertices, edges, or faces. |
 | • Grid Fill | For closing selected edges. |
 | • Bridge Edge Loops | For closing selected edges between 2 planes. |
 | • Bevel | For selecting edges, extruding it with the E key, selecting a direction to extrude the edge(s) with X, Y, or Z, then using the scale tool or S key to stretch the selected edges inward or outward. |
