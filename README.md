@@ -41,9 +41,9 @@ ___________________________________________________________________________
 _____________________________________________________
 | I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like: |
 | - |
-| [1620 x 1080] pixels = 3:2 aspect ratio version of 1080p. |
-| [2160 x 1440] pixels = 3:2 aspect ratio version of 2K. |
-| [3840 x 2560] pixels = 3:2 aspect ratio version of 4K. |
+| 1620 x 1080 (pixels) = 3:2 aspect ratio version of 1080p. |
+| 2160 x 1440 (pixels) = 3:2 aspect ratio version of 2K. |
+| 3840 x 2560 (pixels) = 3:2 aspect ratio version of 4K. |
 ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
