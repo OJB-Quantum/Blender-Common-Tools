@@ -8,14 +8,14 @@ __________________________________________________________________
 | - | - |
 | • Fast GI Approximation | For faster rendering of lighting scenes besides the use of GPU-accelerated Optix denoising. |
 | • Deleting interior faces | For faster rendering by allowing the system to spend less time on rendering faces that cannot be seen in the render view mode. |
+| • The use of wireframe mode to select all vertices, edges, or vertices | So you won't accidentally miss the selection of any vertices, edges, or faces. |
 | • Solidify | For adding thickness to an object mesh to use it as a solid 3D model. |
 | • Bake | For calculating associated physics in the Blender model. |
 | • Screw Modifier | For turning a selected object into a coil shape or similar. |
-| • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
-| • The use of wireframe mode to select all vertices, edges, or vertices. | So you won't accidentally miss the selection of any vertices, edges, or faces. |
 | • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 | • Smooth by Angle Modifier + Shade Smooth | Smoothes curved object surface based on the desired angle while retaining sharper, 90 degree edges. |
 | • Material Properties >> Add a new material >> Surface (set to Principled BSDF, pick color) >> Specular (set to Multiscatter GGX, pick color) | To allow an object to change color based on the viewing angle. |
+| • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
 _________________________________________________________________________
 | In Object Mode: | Description |
 | - | - |
