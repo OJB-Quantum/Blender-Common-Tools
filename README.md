@@ -12,8 +12,8 @@ __________________________________________________________________
 | • Solidify | For adding thickness to an object mesh to use it as a solid 3D model. |
 | • Bake | For calculating associated physics in the Blender model. |
 | • Screw Modifier | For turning a selected object into a coil shape or similar. |
-| • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 | • Smooth by Angle Modifier + Shade Smooth | Smoothes curved object surface based on the desired angle while retaining sharper, 90 degree edges. |
+| • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 | • Material Properties >> Add a new material >> Surface (set to Principled BSDF, pick color) >> Specular (set to Multiscatter GGX, pick color) | To allow an object to change color based on the viewing angle. |
 | • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
 _________________________________________________________________________
