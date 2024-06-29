@@ -14,6 +14,8 @@ __________________________________________________________________
 | • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
 | • The use of wireframe mode to select all vertices, edges, or vertices. | So you won't accidentally miss the selection of any vertices, edges, or faces. |
 | • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
+| • Smooth by Angle Modifier + Shade Smooth | Smoothes curved object surface based on the desired angle while retaining sharper, 90 degree edges. |
+| • Material Properties >> Add a new material >> Surface (set to Principled BSDF, pick color) >> Specular (set to Multiscatter GGX, pick color) | To allow an object to change color based on the viewing angle. |
 _________________________________________________________________________
 | In Object Mode: | Description |
 | - | - |
