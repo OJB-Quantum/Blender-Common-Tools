@@ -51,6 +51,7 @@ _____________________________________________________
 | 7680 x 5120 pixels = 3:2 aspect ratio version of 8K. |
 | 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
 | 30720 x 20480 pixels = 3:2 aspect ratio version of 32K. |
+### Note: at 3K resolution format, a noise threshold of 0.09, max samples of 295, and no denoising can render 385 frames in ≈ 15 minutes.
 ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
