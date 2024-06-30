@@ -45,10 +45,11 @@ _____________________________________________________
 | 2160 x 1440 pixels = 3:2 aspect ratio version of 2K. |
 | 2880 x 1920 pixels = 3:2 aspect ratio version of 3K. |
 | 3840 x 2560 pixels = 3:2 aspect ratio version of 4K. |
+| 4096 x 2730 pixels = 3:2 aspect ratio version of 4K Cinema. |
+| 5120 x 3413 pixels = 3:2 aspect ratio version of 5K. |
 | 5760 x 3840 pixels = 3:2 aspect ratio version of 5.7K. |
 | 7680 x 5120 pixels = 3:2 aspect ratio version of 8K. |
 | 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
-[]()
 ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
