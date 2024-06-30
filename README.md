@@ -50,6 +50,7 @@ _____________________________________________________
 | 5760 x 3840 pixels = 3:2 aspect ratio version of 5.7K. |
 | 7680 x 5120 pixels = 3:2 aspect ratio version of 8K. |
 | 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
+| 30720 x 20480 pixels = 3:2 aspect ratio version of 32K. |
 ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
