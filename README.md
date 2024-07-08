@@ -21,7 +21,7 @@ _________________________________________________________________________
 | - | - |
 | • Add Mesh | For adding 2D and 3D shapes. |
 | • Shade Smooth + Smooth by Angle Modifier | For smoothing rough edges of added shapes. |
-| • Selection of Objects + H key | For hiding of desired objects in Object Mode. This is great for isolating the selection of smaller objects in a scene. |
+| • Selection of Objects + Hide [H key] | For hiding of desired objects in Object Mode. This is great for isolating the selection of smaller objects in a scene. |
 | • Nurbs [Bezier curve] >> Data >> Geometry >> Bevel >> Depth | For easy creation of wire from surface to surface. |
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
 ___________________________________________________________________________
