@@ -20,10 +20,9 @@ _________________________________________________________________________
 | In Object Mode: | Description |
 | - | - |
 | • Add Mesh | For adding 2D and 3D shapes. |
-| • Shade Smooth | For smoothing rough edges of added shapes. |
-| • Modifiers >> Boolean | For merging or cutting added shapes. |
+| • Shade Smooth + Smooth by Angle Modifier | For smoothing rough edges of added shapes. |
+| • Selection of Objects + H key | For hiding of desired objects in Object Mode. This is great for isolating the selection of smaller objects in a scene. |
 | • Nurbs [Bezier curve] >> Data >> Geometry >> Bevel >> Depth | For easy creation of wire from surface to surface. |
-| • Modifiers >> Smooth by Angle | For smoothing adjacent edges of selected 3D objects, be sure to select Shade Smooth under the Object tab along with the usage of this tool. |
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
 ___________________________________________________________________________
 | In Edit Mode (Given that you select desired shape): | Description |
