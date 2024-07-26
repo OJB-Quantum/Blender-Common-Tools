@@ -28,6 +28,7 @@ ___________________________________________________________________________
 | In Edit Mode (Given that you select desired shape): | Description |
 | - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
+| • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections for modification. |
 | • Shrink/Fatten | For extruding individual or selected vertices, edges, or faces. |
