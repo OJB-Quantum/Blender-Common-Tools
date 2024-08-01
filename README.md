@@ -34,7 +34,7 @@ ___________________________________________________________________________
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections for modification. |
 | • Inset [I key] | For creating a form of offset of a face. |
-| • Vertex Mode selection >> press J >> Loop Cut as needed >> Face Mode selection >> Bridge Edge Loops | For connecting vertices, followed by sectioning faces into smaller pieces as needed, then selecting desired faces to cut a hole into a 3D object. |
+| • Vertex Mode selection >> press J >> Loop Cut as needed >> Face Mode selection >> Bridge Edge Loops | For connecting vertices, sectioning faces into smaller pieces as needed, then selecting desired faces to cut a hole into a 3D object. |
 | • Shrink/Fatten | For extruding individual or selected vertices, edges, or faces. |
 | • Grid Fill | For closing selected edges. |
 | • Bridge Edge Loops | For closing selected edges between 2 planes. |
