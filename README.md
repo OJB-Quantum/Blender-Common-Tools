@@ -33,6 +33,7 @@ ___________________________________________________________________________
 | • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections for modification. |
+| • Inset [I key] | For creating a form of offset of a face. |
 | • Shrink/Fatten | For extruding individual or selected vertices, edges, or faces. |
 | • Grid Fill | For closing selected edges. |
 | • Bridge Edge Loops | For closing selected edges between 2 planes. |
