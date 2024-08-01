@@ -32,6 +32,7 @@ ___________________________________________________________________________
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
 | • Any Selection Mode >> Mesh >> Clean Up >> Limited Dissolve | For merging vertices, edges, or faces into one section. Merge by Distance is a similar tool available under the same tab. |
+| • Select >> Checker Deselect | For selection of every other face around an object such as a cylinder mesh. Perfect for creating gears. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections for modification. |
 | • Inset [I key] | For creating a form of offset of a face. |
