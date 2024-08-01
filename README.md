@@ -31,6 +31,7 @@ ___________________________________________________________________________
 | - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
+| • Any Selection Mode >> Mesh >> Clean Up >> Limited Dissolve | For merging vertices, edges, or faces into one section. |
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections for modification. |
 | • Inset [I key] | For creating a form of offset of a face. |
@@ -40,7 +41,6 @@ ___________________________________________________________________________
 | • Bridge Edge Loops | For closing selected edges between 2 planes. |
 | • Bevel | For selecting edges, extruding it with the E key, selecting a direction to extrude the edge(s) with X, Y, or Z, then using the scale tool or S key to stretch the selected edges inward or outward. |
 | • Add Single Vertex | For extruding an added vertex in vertex selection to draw a modifiable line. |
-| • Right Click >> Limited Dissolve | For simplifying meshes with too many vertices. |
 | • Select tab >> Select All by Trait >> Interior Faces >> Right-Click >> Delete faces | For deleting faces not expected to display in the render view mode, saves rendering time as well. |
 _____________________________________________________
 | I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like: |
