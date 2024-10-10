@@ -19,6 +19,7 @@ __________________________________________________________________
 | • Material Properties >> Add a new material >> Surface (set to Principled BSDF, pick color) >> Specular (set to Multiscatter GGX, pick color) | To allow an object to change color based on the viewing angle. |
 | • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
 | • Render Settings >> Film >> Pixel Filter | Set to a wdith of 1 pixel or less to increase sharpness and clarity of overall render outcome. | 
+| • Object Properties >> Shading >> Caustics >> Receive Shadow Caustics| When box is checked, it allows for caustic effect to project on a selected object's surface. Make sure caustic effects are turned on (usually on by default under Render Properties tab >> Light Paths >> Caustics). |
 _________________________________________________________________________
 | In Object Mode: | Description |
 | - | - |
