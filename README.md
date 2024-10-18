@@ -28,6 +28,7 @@ _________________________________________________________________________
 | • Selection of Objects + Hide [H key] | For hiding of desired objects in Object Mode. This is great for isolating the selection of smaller objects in a scene. |
 | • Nurbs [Bezier curve] >> Data >> Geometry >> Bevel >> Depth | For easy creation of wire from surface to surface. |
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
+| • Ctrl + Join [J key] | For joining selected objects after first selecting one of the objects. |
 ___________________________________________________________________________
 | In Edit Mode (Given that you select desired shape): | Description |
 | - | - |
@@ -38,6 +39,7 @@ ___________________________________________________________________________
 | • Fill [F key] | For filling selected edges that are closed or not open-ended. |
 | • Loop Cut | For sectioning added shapes into smaller sections for modification. |
 | • Inset [I key] | For creating a form of offset of a face. |
+| • Separate by parts [P key] | For separating previously joined objects. |
 | • Vertex Mode selection >> press J >> Loop Cut as needed >> Face Mode selection >> Bridge Edge Loops | For connecting vertices, sectioning faces into smaller pieces as needed, then selecting desired faces to cut a hole into a 3D object. |
 | • Shrink/Fatten | For extruding individual or selected vertices, edges, or faces. |
 | • Grid Fill | For closing selected edges. |
