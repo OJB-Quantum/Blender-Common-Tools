@@ -61,6 +61,8 @@ _____________________________________________________
 | 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
 | 30720 x 20480 pixels = 3:2 aspect ratio version of 32K. |
 ### Note: at 3K resolution format, a combination of noise threshold at 0.09, max samples of 295, with fast GI approximation enabled, and no denoising can render 385 frames in ≈ 15 minutes. Using 75 or 95 samples works fine as well for animations. 15 or 20 samples works well for 8K resolution format.
+
+### When importing DXF layouts, 0.0005 should be scale value to fit in the viewport.
 ______________________________________________________
 | Supplementary YouTube Links: |
 | - |
