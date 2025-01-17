@@ -1,9 +1,13 @@
 # Blender-Common-Tools
 A repository of Onri's most used tools or sub-tools for rendering in Blender.
+
 __________________________________________________________________
+
 ## [Download Blender Here](https://www.blender.org/download)
 ### [Onri's Free Blend Files Here (Examples)](https://github.com/OJB-Quantum/Free-Blender-Models)
+
 __________________________________________________________________
+
 | General | Description |
 | - | - |
 | • Fast GI Approximation | For faster rendering of lighting scenes, besides the use of GPU-accelerated Optix denoising. |
@@ -20,7 +24,9 @@ __________________________________________________________________
 | • Physics >> Collision >> Field Absorption, Damping, and Friction | Set to max to allow particles to stick to selected object. |
 | • Render Settings >> Film >> Pixel Filter | Set to a wdith of 1 pixel or less to increase sharpness and clarity of overall render outcome. | 
 | • Object Properties >> Shading >> Caustics >> Receive Shadow Caustics| When box is checked, it allows for caustic effect to project on a selected object's surface. Make sure caustic effects are turned on (usually on by default under Render Properties tab >> Light Paths >> Caustics). |
+
 _________________________________________________________________________
+
 | In Object Mode: | Description |
 | - | - |
 | • Add Mesh | For adding 2D and 3D shapes. |
@@ -29,7 +35,9 @@ _________________________________________________________________________
 | • Nurbs [Bezier curve] >> Data >> Geometry >> Bevel >> Depth | For easy creation of wire from surface to surface. |
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
 | • Ctrl + Join [J key] | For joining selected objects after first selecting one of the objects. |
+
 ___________________________________________________________________________
+
 | In Edit Mode (Given that you select desired shape): | Description |
 | - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
@@ -47,7 +55,9 @@ ___________________________________________________________________________
 | • Bevel | For selecting edges, extruding it with the E key, selecting a direction to extrude the edge(s) with X, Y, or Z, then using the scale tool or S key to stretch the selected edges inward or outward. |
 | • Add Single Vertex | For extruding an added vertex in vertex selection to draw a modifiable line. |
 | • Select tab >> Select All by Trait >> Interior Faces >> Right-Click >> Delete faces | For deleting faces not expected to display in the render view mode, saves rendering time as well. |
+
 _____________________________________________________
+
 | I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like: |
 | - |
 | 1620 x 1080 pixels = 3:2 aspect ratio version of 1080p. |
@@ -63,7 +73,9 @@ _____________________________________________________
 ### Note: at 3K resolution format, a combination of noise threshold at 0.09, max samples of 295, with fast GI approximation enabled, and no denoising can render 385 frames in ≈ 15 minutes. Using 75 or 95 samples works fine as well for animations. 15 or 20 samples works well for 8K resolution format.
 
 ### When importing DXF layouts, 0.0005 should be scale value to fit in the viewport.
+
 ______________________________________________________
+
 | Supplementary YouTube Links: |
 | - |
 | [How to Render Faster In Blender Cycles](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
