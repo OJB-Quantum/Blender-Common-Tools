@@ -4,6 +4,7 @@ A repository of Onri's most used tools or sub-tools for rendering in Blender.
 __________________________________________________________________
 
 ## [Download Blender Here](https://www.blender.org/download)
+
 ### [Onri's Free Blend Files Here (Examples)](https://github.com/OJB-Quantum/Free-Blender-Models)
 
 __________________________________________________________________
@@ -70,14 +71,18 @@ _____________________________________________________
 | 7680 x 5120 pixels = 3:2 aspect ratio version of 8K. |
 | 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
 | 30720 x 20480 pixels = 3:2 aspect ratio version of 32K. |
+
 ### Note: at 3K resolution format, a combination of noise threshold at 0.09, max samples of 295, with fast GI approximation enabled, and no denoising can render 385 frames in ≈ 15 minutes. Using 75 or 95 samples works fine as well for animations. 15 or 20 samples works well for 8K resolution format.
 
 ### When importing DXF layouts, 0.0005 should be scale value to fit in the viewport.
 
+
 ______________________________________________________
+
 
 | Supplementary YouTube Links: |
 | - |
+| [CG Figures Playlists (Blender for Scientific Figures)](https://youtube.com/@cgfigures?si=jIyStbgUqA1fvEhS) |
 | [How to Render Faster In Blender Cycles](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
 | [6 Minutes of Boolean Basics, Blender Secrets](https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
 | [Loop Tools Tips, Blender Secrets](https://youtube.com/playlist?list=PLrB1kuJIjcg4UByYChm0sojwfy87RincB&si=cT6be2h_AgWlrQ_o) |
