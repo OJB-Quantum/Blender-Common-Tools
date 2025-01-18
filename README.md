@@ -1,6 +1,8 @@
 # Blender-Common-Tools
 A repository of Onri's most used tools or sub-tools for rendering in Blender.
 
+The primary URL for the repository: [OJB-Quantum/Blender-Common-Tools](https://github.com/OJB-Quantum/Blender-Common-Tools)
+
 __________________________________________________________________
 
 ## [Download Blender Here](https://www.blender.org/download)
