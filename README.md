@@ -7,6 +7,10 @@ __________________________________________________________________
 
 ## [Download Blender Here](https://www.blender.org/download)
 
+### [Generate a Coffee Mug in Blender](https://youtu.be/FpLpFMq-Jdk?si=auHfYnZulDSlEP9O)
+
+### [Onri's Chip Rendering Tutorials](https://youtube.com/playlist?list=PLbW5jviv4ckwvvhSjwONc6pa-glNdI6vg&si=tV7Yeq_iGdnVXbLw)
+
 ### [Onri's Free Blend Files Here (Examples)](https://github.com/OJB-Quantum/Free-Blender-Models)
 
 __________________________________________________________________
