@@ -7,7 +7,37 @@ __________________________________________________________________
 
 ## [Download Blender Here](https://www.blender.org/download)
 
-### [Onri's Free Blend Files Here (Examples)](https://github.com/OJB-Quantum/Free-Blender-Models)
+|  |
+| - |
+| [Onri's Free Blend Files Here (Examples for Reference)](https://github.com/OJB-Quantum/Free-Blender-Models) |
+| [Generate a Coffee Mug in Blender](https://youtu.be/FpLpFMq-Jdk?si=auHfYnZulDSlEP9O) |
+| [Onri's Chip Rendering Tutorials](https://youtube.com/playlist?list=PLbW5jviv4ckwvvhSjwONc6pa-glNdI6vg&si=tV7Yeq_iGdnVXbLw) |
+
+__________________________________________________________________
+
+| Supplementary YouTube Tutorials |
+| - |
+| [How to Render Faster In Blender Cycles](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
+| [6 Minutes of Boolean Basics, Blender Secrets](https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
+| [Loop Tools Tips, Blender Secrets](https://youtube.com/playlist?list=PLrB1kuJIjcg4UByYChm0sojwfy87RincB&si=cT6be2h_AgWlrQ_o) |
+| [Shade Auto Smooth, Ryan King Art](https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
+| [Blender Glare Node for Cycles Glow / Bloom, Brandon 3D](https://youtu.be/N9p00A7P5h8?si=eUaph8IPTgahYMbL) |
+| [Fill Holes in a Mesh, Buvesa Game Development](https://youtu.be/mkfv5ecpvvs?si=wZVfQo-JLvOyUxJJ) |
+| [Create Projectors Fast, CGMatter](https://youtu.be/adahnQCqmw0?si=hdK1bFHX82S0qBEB) |
+| [How to make Blender Eevee Look Realistic - Indirect Lighting, Void Visuals](https://youtu.be/6R4pnPwCA3U?si=tkyVCdaELI5eU3AD) |
+
+| YouTube Channels | Description |
+| - | - |
+| [Ryo Mizuta Graphics](https://youtube.com/playlist?list=PLDEMMuOUBj1ZPNZV_SIfvPWcCubXM1Biq&si=vvsFk0cM80d3cajC)| 3D Rendering Tutorials for Scientific Illustration Using Blender |
+| [CGFigures](https://www.youtube.com/@CGFigures/playlists) | 3D Rendering Tutorials for Scientific Figures Using Blender |
+| [Brandon 3D](https://youtube.com/playlist?list=PLYjDeW9Aw0jajsHUG4uXFMy-CplZzPIpv&si=RzoU6zsQ1B8qSfow) | Comprehensive 3D Rendering Tutorials Using Blender |
+| [QuickTipsCentral](https://youtube.com/playlist?list=PLw4YtOBgDIiMEx6_14Kj4a7xioJTcnXxV&si=cTXZf7hyj-rZ2guO) | 3D Modeling & Rendering Tutorials at <1 Minute Each Using Blender |
+| [BlenderVitals](https://youtube.com/playlist?list=PLMDIokDTwYr2P7NJkiEPbezEZsgW9Yr_N&si=AGickgU4PaTdoMrd) | 3D Rendering Tutorials at 1 Minute Each Using Blender |
+| [1 minute Blender](https://youtube.com/playlist?list=PLFmCO7KRkJbCtKIHG33didkEZdYIjVRy9&si=SdrL3UahNIgLyQ_D) | 3D Rendering Tutorials at 1 Minute Each Using Blender |
+| [CG Cookie](https://youtube.com/playlist?list=PL3GeP3YLZn5hNd8eLSC64RX3Cr2I9xu8o&si=EhdbeEkkkgBUhqeC) | 3D Rendering Tutorials Using Blender |
+| [Blender Secrets](https://www.youtube.com/@BlenderSecrets/playlists) | 3D Animation Tutorials Using Blender |
+| [KennyPhases](https://youtube.com/playlist?list=PLeT-XEXZURqMDgk-Zv8xBASoTgI6aMZ3k&si=Rmoa70kj7huolcVg) | 3D Animation Tutorials Using Blender |
+| [PIXXO 3D](https://www.youtube.com/@PIXXO3D/playlists) | 3D Animation Tutorials Using Blender |
 
 __________________________________________________________________
 
@@ -78,18 +108,4 @@ _____________________________________________________
 
 ### When importing DXF layouts, 0.0005 should be scale value to fit in the viewport.
 
-
 ______________________________________________________
-
-
-| Supplementary YouTube Links: |
-| - |
-| [CG Figures Playlists (Blender for Scientific Figures)](https://youtube.com/@cgfigures?si=jIyStbgUqA1fvEhS) |
-| [How to Render Faster In Blender Cycles](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
-| [6 Minutes of Boolean Basics, Blender Secrets](https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
-| [Loop Tools Tips, Blender Secrets](https://youtube.com/playlist?list=PLrB1kuJIjcg4UByYChm0sojwfy87RincB&si=cT6be2h_AgWlrQ_o) |
-| [Shade Auto Smooth, Ryan King Art](https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
-| [Blender Glare Node for Cycles Glow / Bloom, Brandon 3D](https://youtu.be/N9p00A7P5h8?si=eUaph8IPTgahYMbL) |
-| [Fill Holes in a Mesh, Buvesa Game Development](https://youtu.be/mkfv5ecpvvs?si=wZVfQo-JLvOyUxJJ) |
-| [Create Projectors Fast, CGMatter](https://youtu.be/adahnQCqmw0?si=hdK1bFHX82S0qBEB) |
-| [How to make Blender Eevee Look Realistic - Indirect Lighting, Void Visuals](https://youtu.be/6R4pnPwCA3U?si=tkyVCdaELI5eU3AD) |
