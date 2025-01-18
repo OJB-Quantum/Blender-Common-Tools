@@ -43,6 +43,8 @@ __________________________________________________________________
 
 __________________________________________________________________
 
+## Tables of Useful Tools & Shortcuts with Descriptions:
+
 | General | Description |
 | - | - |
 | • Fast GI Approximation | For faster rendering of lighting scenes, besides the use of GPU-accelerated Optix denoising. |
@@ -60,9 +62,8 @@ __________________________________________________________________
 | • Render Settings >> Film >> Pixel Filter | Set to a wdith of 1 pixel or less to increase sharpness and clarity of overall render outcome. | 
 | • Object Properties >> Shading >> Caustics >> Receive Shadow Caustics| When box is checked, it allows for caustic effect to project on a selected object's surface. Make sure caustic effects are turned on (usually on by default under Render Properties tab >> Light Paths >> Caustics). |
 
-_________________________________________________________________________
 
-| In Object Mode: | Description |
+| In Object Mode | Description |
 | - | - |
 | • Add Mesh | For adding 2D and 3D shapes. |
 | • Shade Smooth + Smooth by Angle Modifier | For smoothing rough edges of added shapes. |
@@ -71,9 +72,9 @@ _________________________________________________________________________
 | • Ctrl + Shift + [-] | To cut 2 or more overlapping objects after selecting all desired objects, be sure to hide the cutting object's render on the right panel. |
 | • Ctrl + Join [J key] | For joining selected objects after first selecting one of the objects. |
 
-___________________________________________________________________________
 
-| In Edit Mode (Given that you select desired shape): | Description |
+
+| In Edit Mode (Given that you select desired shape) | Description |
 | - | - |
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
@@ -93,7 +94,9 @@ ___________________________________________________________________________
 
 _____________________________________________________
 
-| I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like: |
+## Rendering Resolutions That Can Be Set Under the 'Output Properties' Tab:
+
+| I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like |
 | - |
 | 1620 x 1080 pixels = 3:2 aspect ratio version of 1080p. |
 | 2160 x 1440 pixels = 3:2 aspect ratio version of 2K. |
