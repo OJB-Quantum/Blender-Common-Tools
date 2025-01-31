@@ -28,6 +28,7 @@ __________________________________________________________________
 | [Create Projectors Fast, CGMatter](https://youtu.be/adahnQCqmw0?si=hdK1bFHX82S0qBEB) |
 | [How to make Blender Eevee Look Realistic - Indirect Lighting, Void Visuals](https://youtu.be/6R4pnPwCA3U?si=tkyVCdaELI5eU3AD) |
 | [Improve Your Animations with the Graph Editor, 3Dschool](https://youtu.be/QeI2ivhchDg?si=V70MDlX2FJwgkaED) |
+| [Make your Trees Move in the Wind - Noise Modifier, Twan Oligschlaeger](https://youtu.be/3q6tnwajtfc?si=BjqXNYaAyVOF_Pww) |
 
 | YouTube Channels | Description |
 | - | - |
