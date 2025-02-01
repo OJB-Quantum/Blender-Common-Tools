@@ -29,6 +29,7 @@ __________________________________________________________________
 | [How to make Blender Eevee Look Realistic - Indirect Lighting, Void Visuals](https://youtu.be/6R4pnPwCA3U?si=tkyVCdaELI5eU3AD) |
 | [Improve Your Animations with the Graph Editor, 3Dschool](https://youtu.be/QeI2ivhchDg?si=V70MDlX2FJwgkaED) |
 | [Make your Trees Move in the Wind - Noise Modifier, Twan Oligschlaeger](https://youtu.be/3q6tnwajtfc?si=BjqXNYaAyVOF_Pww) |
+| [Easy Car Scene in 1 Minute, KennyPhases](https://youtu.be/_VlcPQrB3rE?si=D3HYZ4bK9ZSCZMn9) |
 
 | YouTube Channels | Description |
 | - | - |
@@ -38,6 +39,7 @@ __________________________________________________________________
 | [QuickTipsCentral](https://youtube.com/playlist?list=PLw4YtOBgDIiMEx6_14Kj4a7xioJTcnXxV&si=cTXZf7hyj-rZ2guO) | 3D Modeling & Rendering Tutorials at <1 Minute Each Using Blender |
 | [BlenderVitals](https://youtube.com/playlist?list=PLMDIokDTwYr2P7NJkiEPbezEZsgW9Yr_N&si=AGickgU4PaTdoMrd) | 3D Rendering Tutorials at 1 Minute Each Using Blender |
 | [1 minute Blender](https://youtube.com/playlist?list=PLFmCO7KRkJbCtKIHG33didkEZdYIjVRy9&si=SdrL3UahNIgLyQ_D) | 3D Rendering Tutorials at 1 Minute Each Using Blender |
+| [DOVOLO](https://www.youtube.com/@DovoloDesign/shorts) | 3D Rendering Tutorials in the Shortform Format |
 | [CG Cookie](https://youtube.com/playlist?list=PL3GeP3YLZn5hNd8eLSC64RX3Cr2I9xu8o&si=EhdbeEkkkgBUhqeC) | 3D Rendering Tutorials Using Blender |
 | [Blender Secrets](https://www.youtube.com/@BlenderSecrets/playlists) | 3D Animation Tutorials Using Blender |
 | [KennyPhases](https://youtube.com/playlist?list=PLeT-XEXZURqMDgk-Zv8xBASoTgI6aMZ3k&si=Rmoa70kj7huolcVg) | 3D Animation Tutorials Using Blender |
