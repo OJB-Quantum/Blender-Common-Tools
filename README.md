@@ -19,7 +19,9 @@ __________________________________________________________________
 
 | Supplementary YouTube Tutorials |
 | - |
-| [How to Render Faster In Blender Cycles](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
+| [How to Render Faster In Blender Cycles, BadgerBricks](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
+| [Animate an Object Along a Curve, Ryan King Art](https://youtu.be/VNs7DyEV6fA?si=0fxMvGIm7YTwrX3Q) |
+| [How to Use Dynamic Paint in 3 Creative Ways, CG Cookie](https://youtu.be/Bn_EfUaiKWQ?si=Fv6ORfP75JmYfXDW) |
 | [6 Minutes of Boolean Basics, Blender Secrets](https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
 | [Loop Tools Tips, Blender Secrets](https://youtube.com/playlist?list=PLrB1kuJIjcg4UByYChm0sojwfy87RincB&si=cT6be2h_AgWlrQ_o) |
 | [Shade Auto Smooth, Ryan King Art](https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
