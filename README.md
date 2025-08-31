@@ -105,23 +105,24 @@ _____________________________________________________
 
 | I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like |
 | - |
-| 1620 x 1080 pixels = 3:2 aspect ratio version of 1080p. |
-| 2160 x 1440 pixels = 3:2 aspect ratio version of 2K. |
-| 2880 x 1920 pixels = 3:2 aspect ratio version of 3K. |
-| 3840 x 2560 pixels = 3:2 aspect ratio version of 4K. |
-| 4096 x 2730 pixels = 3:2 aspect ratio version of 4K Cinema. |
-| 5120 x 3413 pixels = 3:2 aspect ratio version of 5K. |
-| 5760 x 3840 pixels = 3:2 aspect ratio version of 5.7K. |
-| 7680 x 5120 pixels = 3:2 aspect ratio version of 8K. |
-| 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
-| 30720 x 20480 pixels = 3:2 aspect ratio version of 32K. |
+| 1620 x 1080 pixels = 3:2 aspect ratio version of 1080p |
+| 2160 x 1440 pixels = 3:2 aspect ratio version of 2K |
+| 2880 x 1920 pixels = 3:2 aspect ratio version of 3K |
+| 3840 x 2560 pixels = 3:2 aspect ratio version of 4K |
+| 4096 x 2730 pixels = 3:2 aspect ratio version of 4K Cinema |
+| 5120 x 3413 pixels = 3:2 aspect ratio version of 5K |
+| 5760 x 3840 pixels = 3:2 aspect ratio version of 5.7K |
+| 7680 x 5120 pixels = 3:2 aspect ratio version of 8K |
+| 15360 x 10240 pixels = 3:2 aspect ratio version of 16K |
+| 30720 x 20480 pixels = 3:2 aspect ratio version of 32K |
 
 | Here are 16:9 aspect ratio resolutions I typically use for animation |
 | - |
-| 1920 x 1080 pixels = 1080p. |
-| 2560 x 1440 pixels = 2K. |
-| 2880 x 1620 pixels = 3K. |
-| 3840 x 2160 pixles = 4k. |
+| 1920 x 1080 pixels = 1080p |
+| 2560 x 1440 pixels = 2K |
+| 2880 x 1620 pixels = 3K |
+| 3440 x 1440 pixels = 3.5K |
+| 3840 x 2160 pixles = 4K |
 
 ### Sample amount that can run on a CPU for cycles render ray tracing: 50 samples
 
