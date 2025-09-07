@@ -116,13 +116,14 @@ _____________________________________________________
 | 15360 x 10240 pixels = 3:2 aspect ratio version of 16K |
 | 30720 x 20480 pixels = 3:2 aspect ratio version of 32K |
 
-| Here are 16:9 aspect ratio resolutions I typically use for animation |
+| Here are 16:9 aspect ratio resolutions I typically use for animation or image rendering |
 | - |
 | 1920 x 1080 pixels = 1080p |
 | 2560 x 1440 pixels = 2K |
 | 2880 x 1620 pixels = 3K |
 | 3440 x 1440 pixels = 3.5K |
 | 3840 x 2160 pixles = 4K |
+| 7680 x 4320 pixels = 8K |
 
 ### Sample amount that can run on a CPU for cycles render ray tracing: 50 samples
 
