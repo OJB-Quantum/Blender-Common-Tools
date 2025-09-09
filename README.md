@@ -62,6 +62,7 @@ __________________________________________________________________
 | • Screw Modifier | For turning a selected object into a coil shape or similar. |
 | • Bevel Modifier | For adding a touch of realism to objects with "sharp" edges. Set the amount to 0.002 m and # of segments to 10. |
 | • Build Modifier | For animating objects to gradually appear into view frame by frame. |
+| • Lattice Modifier | For bending and manually reshaping mesh objects using an inserted lattice object. |
 | • Smooth by Angle Modifier + Shade Smooth | Smoothes curved object surface based on the desired angle while retaining sharper, 90 degree edges. |
 | • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 | • Material Properties >> Add a new material >> Surface (set to Principled BSDF, pick color) >> Specular (set to Multiscatter GGX, pick color) | To allow an object to change color based on the viewing angle. |
