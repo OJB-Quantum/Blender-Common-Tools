@@ -19,7 +19,9 @@ __________________________________________________________________
 
 | Supplementary YouTube Tutorials |
 | - |
-| [How to Render Faster In Blender Cycles](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
+| [How to Render Faster In Blender Cycles, BadgerBricks](https://youtu.be/boMoTlnj9Mw?si=l5aWUtfLfO_vjeKZ) |
+| [Animate an Object Along a Curve, Ryan King Art](https://youtu.be/VNs7DyEV6fA?si=0fxMvGIm7YTwrX3Q) |
+| [How to Use Dynamic Paint in 3 Creative Ways, CG Cookie](https://youtu.be/Bn_EfUaiKWQ?si=Fv6ORfP75JmYfXDW) |
 | [6 Minutes of Boolean Basics, Blender Secrets](https://youtu.be/_S3D8djM5bE?si=R8XP6i_JRW26wFZI) |
 | [Loop Tools Tips, Blender Secrets](https://youtube.com/playlist?list=PLrB1kuJIjcg4UByYChm0sojwfy87RincB&si=cT6be2h_AgWlrQ_o) |
 | [Shade Auto Smooth, Ryan King Art](https://youtu.be/WT29Hyv2XX8?si=DG-mETUzCpBWWrW1)
@@ -60,6 +62,7 @@ __________________________________________________________________
 | • Screw Modifier | For turning a selected object into a coil shape or similar. |
 | • Bevel Modifier | For adding a touch of realism to objects with "sharp" edges. Set the amount to 0.002 m and # of segments to 10. |
 | • Build Modifier | For animating objects to gradually appear into view frame by frame. |
+| • Lattice Modifier | For bending and manually reshaping mesh objects using an inserted lattice object. |
 | • Smooth by Angle Modifier + Shade Smooth | Smoothes curved object surface based on the desired angle while retaining sharper, 90 degree edges. |
 | • Render Properties >> Advanced >> Seed >> Click timer box icon | Animates the noise texture in the lighting conditions. |
 | • Material Properties >> Add a new material >> Surface (set to Principled BSDF, pick color) >> Specular (set to Multiscatter GGX, pick color) | To allow an object to change color based on the viewing angle. |
@@ -81,6 +84,7 @@ __________________________________________________________________
 
 | In Edit Mode (Given that you select desired shape) | Description |
 | - | - |
+| • Shift + R | To repeat an action, such as performing multiple subdivisions incrementally | 
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
 | • Any Selection Mode >> Mesh >> Clean Up >> Limited Dissolve | For merging vertices, edges, or faces into one section. Merge by Distance is a similar tool available under the same tab. |
@@ -103,16 +107,27 @@ _____________________________________________________
 
 | I have a personal preference for 3:2 aspect ratio, so here are some resolutions I like |
 | - |
-| 1620 x 1080 pixels = 3:2 aspect ratio version of 1080p. |
-| 2160 x 1440 pixels = 3:2 aspect ratio version of 2K. |
-| 2880 x 1920 pixels = 3:2 aspect ratio version of 3K. |
-| 3840 x 2560 pixels = 3:2 aspect ratio version of 4K. |
-| 4096 x 2730 pixels = 3:2 aspect ratio version of 4K Cinema. |
-| 5120 x 3413 pixels = 3:2 aspect ratio version of 5K. |
-| 5760 x 3840 pixels = 3:2 aspect ratio version of 5.7K. |
-| 7680 x 5120 pixels = 3:2 aspect ratio version of 8K. |
-| 15360 x 10240 pixels = 3:2 aspect ratio version of 16K. |
-| 30720 x 20480 pixels = 3:2 aspect ratio version of 32K. |
+| 1620 x 1080 pixels = 3:2 aspect ratio version of 1080p |
+| 2160 x 1440 pixels = 3:2 aspect ratio version of 2K |
+| 2880 x 1920 pixels = 3:2 aspect ratio version of 3K |
+| 3840 x 2560 pixels = 3:2 aspect ratio version of 4K |
+| 4096 x 2730 pixels = 3:2 aspect ratio version of 4K Cinema |
+| 5120 x 3413 pixels = 3:2 aspect ratio version of 5K |
+| 5760 x 3840 pixels = 3:2 aspect ratio version of 5.7K |
+| 7680 x 5120 pixels = 3:2 aspect ratio version of 8K |
+| 15360 x 10240 pixels = 3:2 aspect ratio version of 16K |
+| 30720 x 20480 pixels = 3:2 aspect ratio version of 32K |
+
+| Here are 16:9 aspect ratio resolutions I typically use for animation or image rendering |
+| - |
+| 1920 x 1080 pixels = 1080p |
+| 2560 x 1440 pixels = 2K |
+| 2880 x 1620 pixels = 3K |
+| 3440 x 1440 pixels = 3.5K |
+| 3840 x 2160 pixles = 4K |
+| 7680 x 4320 pixels = 8K |
+
+### Sample amount that can run on a CPU for cycles render ray tracing: 50 samples
 
 ### Note: at 3K resolution format, a combination of noise threshold at 0.09, max samples of 295, with fast GI approximation enabled, and no denoising can render 385 frames in ≈ 15 minutes. Using 75 or 95 samples works fine as well for animations. 15 or 20 samples works well for 8K resolution format. If using the CPU mode of the Cycles render engine, a sample number of 80, with fast GI approximation disabled shows good results. 
 
