@@ -84,6 +84,7 @@ __________________________________________________________________
 
 | In Edit Mode (Given that you select desired shape) | Description |
 | - | - |
+| • Shift + R | To repeat an action, such as performing multiple subdivisions incrementally | 
 | • Face Mode selection >> press A >> Mesh tab >> Normal >> Recalculate outside | For remeshing. |
 | • Face Mode selection >> press Alt + E >> Press S or Spin | For creating a circle array of selected object. |
 | • Any Selection Mode >> Mesh >> Clean Up >> Limited Dissolve | For merging vertices, edges, or faces into one section. Merge by Distance is a similar tool available under the same tab. |
